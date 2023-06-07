@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img src="https://cutewallpaper.org/27/binary-code-wallpaper-gif/46-f22e8-moving-008d1-binary-4baec-code-3d651-wallpaper-b76f8-on-a6b9d-wallpapersafari.gif" alt="GIF">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="GIF">
 </p>
 
 
