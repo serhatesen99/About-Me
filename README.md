@@ -1,6 +1,6 @@
 # About Me
  <h1 align="center">Hi 👋, I'm Serhat Esen.</h1>
-<h3 align="center">I am from Turkey and im a software developer trying to improve himself.I am interested in Full-Stack and Mobile App Development , also loves to learn new things.The following programming languages are the languages i am trying to learn or have sufficient knowledge on.</h3>
+<h3 align="center">I am from Turkey and im a software developer trying to improve himself.I am interested in Full-Stack and Android Development , also loves to learn new things.The following programming languages are the languages i am trying to learn or have sufficient knowledge on.</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@serhatesen39](https://medium.com/@serhatesen39)
 
