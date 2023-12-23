@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhat Esen.</h1>
-<h3 align="center">Im from Turkey and i am a software developer trying to improve himself.I am interested in Full-Stack Development , also loves to learn new things.I describe myself as a hardworking tech lover who is always open for learning.</h3>
+<h3 align="center">Im from Turkey and i am a software developer trying to improve himself.I am interested in Full-Stack M.E.R.N Development , also loves to learn new things.I describe myself as a hardworking tech lover who is always open for learning.</h3>
 
 - 📫 How to reach me **serhatesen39@gmail.com**
 
